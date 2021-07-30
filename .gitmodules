@@ -1,0 +1,3 @@
+[submodule "DrA"]
+	path = DrA
+	url = https://gitlab.com/romangrothausmann/DrA.git
